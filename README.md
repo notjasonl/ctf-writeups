@@ -1,5 +1,5 @@
 # CTF Writeups by Jason
-Collection of shitty writeups I do to explain the CTFs I do
+Collection of writeups for CTFs
 ## CTFs Participated In :+1:
 * [**HSCTF 2018**](https://hsctf.com) 
 * [**EasyCTF IV 2018**](https://easyctf.com)
@@ -11,4 +11,4 @@ Collection of shitty writeups I do to explain the CTFs I do
 * **L Distribution**
 * **Cyber Ninjas**
 ## Why aren't there writeups for past CTFs?
-Well you see, I'm a lazy piece of shit.
+Lazy
