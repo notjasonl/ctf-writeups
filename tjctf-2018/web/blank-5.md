@@ -1,4 +1,4 @@
-# Blank (25 Points)
+# Blank (5 Points)
 This challenge was rather simple.  
 You are given a webpage that appears to have nothing in it:  
 ![](https://github.com/jazon-liu/ctf-writeups/blob/master/tjctf-2018/images/blank-1.PNG)
