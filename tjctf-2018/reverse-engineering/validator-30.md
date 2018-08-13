@@ -38,4 +38,4 @@ We can set a breakpoint here by typing ```break *main+192``` into the gdb shell.
 Then, type ```r``` followed by 43 random characters into the gdb shell, and the flag should show in the registers.  
 ![](https://github.com/jazon-liu/ctf-writeups/blob/master/tjctf-2018/images/validator-5.PNG)  
   
-Flag: ```tjctf{tjctf{ju57_c4ll_m3_35r3v3r_60d_fr0m_n0w_0n}}```
+Flag: ```tjctf{ju57_c4ll_m3_35r3v3r_60d_fr0m_n0w_0n}```
