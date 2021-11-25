@@ -1,5 +1,6 @@
 # CTF Writeups
-Collection of writeups for CTFs
+
+#### i do some ctfs sometimes
 
 ## Teams
 * [**UMDCSEC**](https://ctftime.org/team/87711) 🐢
